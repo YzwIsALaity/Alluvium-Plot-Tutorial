@@ -1,0 +1,608 @@
+PTID,Time,Specialist
+1A,Acute,Neurology
+2A,Acute,None
+3A,Acute,None
+4A,Acute,None
+5A,Acute,Rheumatology
+6A,Acute,Infectious Disease
+7A,Acute,None
+8A,Acute,None
+9A,Acute,Infectious Disease
+10A,Acute,Pulmonology
+11A,Acute,Pulmonology
+12A,Acute,Rheumatology
+13A,Acute,Rheumatology
+14A,Acute,Neurology
+15A,Acute,Infectious Disease
+16A,Acute,Pulmonology
+17A,Acute,None
+18A,Acute,None
+19A,Acute,Pulmonology
+20A,Acute,Rheumatology
+21A,Acute,Infectious Disease
+22A,Acute,None
+23A,Acute,Rheumatology
+24A,Acute,None
+25A,Acute,Pulmonology
+26A,Acute,Pulmonology
+27A,Acute,Infectious Disease
+28A,Acute,None
+29A,Acute,Pulmonology
+30A,Acute,None
+31A,Acute,None
+32A,Acute,Neurology
+33A,Acute,Pulmonology
+34A,Acute,Rheumatology
+35A,Acute,Rheumatology
+36A,Acute,None
+37A,Acute,Rheumatology
+38A,Acute,Pulmonology
+39A,Acute,Infectious Disease
+40A,Acute,Infectious Disease
+41A,Acute,Pulmonology
+42A,Acute,Pulmonology
+43A,Acute,Infectious Disease
+44A,Acute,Neurology
+45A,Acute,Pulmonology
+46A,Acute,Rheumatology
+47A,Acute,Pulmonology
+48A,Acute,None
+49A,Acute,Rheumatology
+50A,Acute,Pulmonology
+51A,Acute,Pulmonology
+52A,Acute,None
+53A,Acute,Rheumatology
+54A,Acute,None
+55A,Acute,Neurology
+56A,Acute,Infectious Disease
+57A,Acute,None
+58A,Acute,Infectious Disease
+59A,Acute,Infectious Disease
+60A,Acute,Rheumatology
+61A,Acute,Infectious Disease
+62A,Acute,Neurology
+63A,Acute,Neurology
+64A,Acute,Neurology
+65A,Acute,Pulmonology
+66A,Acute,Infectious Disease
+67A,Acute,Infectious Disease
+68A,Acute,Infectious Disease
+69A,Acute,Rheumatology
+70A,Acute,Pulmonology
+71A,Acute,Pulmonology
+72A,Acute,Pulmonology
+73A,Acute,Pulmonology
+74A,Acute,Pulmonology
+75A,Acute,Rheumatology
+76A,Acute,None
+77A,Acute,Rheumatology
+78A,Acute,Infectious Disease
+79A,Acute,Pulmonology
+80A,Acute,Pulmonology
+81A,Acute,None
+82A,Acute,Neurology
+83A,Acute,Infectious Disease
+84A,Acute,None
+85A,Acute,Neurology
+86A,Acute,Infectious Disease
+87A,Acute,Rheumatology
+88A,Acute,Infectious Disease
+89A,Acute,Neurology
+90A,Acute,Rheumatology
+91A,Acute,Rheumatology
+92A,Acute,None
+93A,Acute,Neurology
+94A,Acute,Infectious Disease
+95A,Acute,Rheumatology
+96A,Acute,None
+97A,Acute,Rheumatology
+98A,Acute,Infectious Disease
+99A,Acute,None
+100A,Acute,Rheumatology
+101A,Acute,Pulmonology
+102A,Acute,None
+103A,Acute,None
+104A,Acute,Rheumatology
+105A,Acute,Neurology
+106A,Acute,None
+107A,Acute,Infectious Disease
+108A,Acute,Infectious Disease
+109A,Acute,None
+110A,Acute,Rheumatology
+111A,Acute,Infectious Disease
+112A,Acute,Neurology
+113A,Acute,Infectious Disease
+114A,Acute,Pulmonology
+115A,Acute,None
+116A,Acute,Infectious Disease
+117A,Acute,Infectious Disease
+118A,Acute,Neurology
+119A,Acute,Infectious Disease
+120A,Acute,Rheumatology
+121A,Acute,Rheumatology
+122A,Acute,Neurology
+123A,Acute,None
+124A,Acute,Rheumatology
+125A,Acute,Pulmonology
+126A,Acute,Neurology
+127A,Acute,Pulmonology
+128A,Acute,None
+129A,Acute,Rheumatology
+130A,Acute,Pulmonology
+131A,Acute,Neurology
+132A,Acute,Pulmonology
+133A,Acute,Pulmonology
+134A,Acute,None
+135A,Acute,Pulmonology
+136A,Acute,Pulmonology
+137A,Acute,Neurology
+138A,Acute,Rheumatology
+139A,Acute,None
+140A,Acute,Rheumatology
+141A,Acute,Rheumatology
+142A,Acute,None
+143A,Acute,Pulmonology
+144A,Acute,None
+145A,Acute,None
+146A,Acute,Rheumatology
+147A,Acute,Pulmonology
+148A,Acute,None
+149A,Acute,Neurology
+150A,Acute,None
+151A,Acute,None
+152A,Acute,Pulmonology
+153A,Acute,Pulmonology
+154A,Acute,Neurology
+155A,Acute,Rheumatology
+156A,Acute,Neurology
+157A,Acute,Neurology
+158A,Acute,Neurology
+159A,Acute,Rheumatology
+160A,Acute,Neurology
+161A,Acute,Pulmonology
+162A,Acute,Neurology
+163A,Acute,Pulmonology
+164A,Acute,Pulmonology
+165A,Acute,Neurology
+166A,Acute,Infectious Disease
+167A,Acute,Infectious Disease
+168A,Acute,Infectious Disease
+169A,Acute,Infectious Disease
+170A,Acute,Pulmonology
+171A,Acute,Rheumatology
+172A,Acute,Rheumatology
+173A,Acute,Neurology
+174A,Acute,Rheumatology
+175A,Acute,Pulmonology
+176A,Acute,Rheumatology
+177A,Acute,Pulmonology
+178A,Acute,Neurology
+179A,Acute,Neurology
+180A,Acute,Rheumatology
+181A,Acute,None
+182A,Acute,Infectious Disease
+183A,Acute,Rheumatology
+184A,Acute,Pulmonology
+185A,Acute,None
+186A,Acute,Infectious Disease
+187A,Acute,Infectious Disease
+188A,Acute,Infectious Disease
+189A,Acute,Infectious Disease
+190A,Acute,None
+191A,Acute,None
+192A,Acute,Pulmonology
+193A,Acute,Rheumatology
+194A,Acute,Neurology
+195A,Acute,Infectious Disease
+196A,Acute,Neurology
+197A,Acute,Infectious Disease
+198A,Acute,Infectious Disease
+199A,Acute,Infectious Disease
+200A,Acute,Rheumatology
+1A,6-month,Rheumatology
+2A,6-month,Neurology
+3A,6-month,Neurology
+4A,6-month,Neurology
+5A,6-month,Rheumatology
+6A,6-month,Rheumatology
+7A,6-month,Neurology
+8A,6-month,Pulmonology
+9A,6-month,Rheumatology
+10A,6-month,None
+11A,6-month,Rheumatology
+12A,6-month,Rheumatology
+13A,6-month,Infectious Disease
+14A,6-month,Pulmonology
+15A,6-month,None
+16A,6-month,None
+17A,6-month,Infectious Disease
+18A,6-month,Neurology
+19A,6-month,Rheumatology
+20A,6-month,Infectious Disease
+21A,6-month,Pulmonology
+22A,6-month,Neurology
+23A,6-month,Pulmonology
+24A,6-month,Infectious Disease
+25A,6-month,Infectious Disease
+26A,6-month,Infectious Disease
+27A,6-month,Neurology
+28A,6-month,Infectious Disease
+29A,6-month,Rheumatology
+30A,6-month,Rheumatology
+31A,6-month,Rheumatology
+32A,6-month,Neurology
+33A,6-month,Infectious Disease
+34A,6-month,Pulmonology
+35A,6-month,Rheumatology
+36A,6-month,None
+37A,6-month,None
+38A,6-month,Pulmonology
+39A,6-month,None
+40A,6-month,None
+41A,6-month,None
+42A,6-month,Rheumatology
+43A,6-month,Pulmonology
+44A,6-month,Rheumatology
+45A,6-month,Pulmonology
+46A,6-month,Rheumatology
+47A,6-month,Infectious Disease
+48A,6-month,None
+49A,6-month,Rheumatology
+50A,6-month,Neurology
+51A,6-month,None
+52A,6-month,Infectious Disease
+53A,6-month,None
+54A,6-month,Rheumatology
+55A,6-month,Rheumatology
+56A,6-month,Pulmonology
+57A,6-month,Rheumatology
+58A,6-month,Rheumatology
+59A,6-month,None
+60A,6-month,None
+61A,6-month,Pulmonology
+62A,6-month,Neurology
+63A,6-month,Neurology
+64A,6-month,None
+65A,6-month,Infectious Disease
+66A,6-month,Infectious Disease
+67A,6-month,Pulmonology
+68A,6-month,Rheumatology
+69A,6-month,Pulmonology
+70A,6-month,None
+71A,6-month,None
+72A,6-month,Pulmonology
+73A,6-month,Neurology
+74A,6-month,Neurology
+75A,6-month,None
+76A,6-month,Pulmonology
+77A,6-month,None
+78A,6-month,Rheumatology
+79A,6-month,None
+80A,6-month,Pulmonology
+81A,6-month,Rheumatology
+82A,6-month,Neurology
+83A,6-month,Neurology
+84A,6-month,Infectious Disease
+85A,6-month,Pulmonology
+86A,6-month,Infectious Disease
+87A,6-month,Rheumatology
+88A,6-month,Rheumatology
+89A,6-month,Infectious Disease
+90A,6-month,Rheumatology
+91A,6-month,Pulmonology
+92A,6-month,Infectious Disease
+93A,6-month,None
+94A,6-month,Rheumatology
+95A,6-month,Pulmonology
+96A,6-month,Pulmonology
+97A,6-month,Rheumatology
+98A,6-month,Pulmonology
+99A,6-month,None
+100A,6-month,Pulmonology
+101A,6-month,None
+102A,6-month,None
+103A,6-month,Pulmonology
+104A,6-month,Pulmonology
+105A,6-month,Infectious Disease
+106A,6-month,Infectious Disease
+107A,6-month,None
+108A,6-month,Neurology
+109A,6-month,None
+110A,6-month,None
+111A,6-month,Neurology
+112A,6-month,Infectious Disease
+113A,6-month,Pulmonology
+114A,6-month,Pulmonology
+115A,6-month,Rheumatology
+116A,6-month,Rheumatology
+117A,6-month,Rheumatology
+118A,6-month,Rheumatology
+119A,6-month,Pulmonology
+120A,6-month,Infectious Disease
+121A,6-month,None
+122A,6-month,Pulmonology
+123A,6-month,Pulmonology
+124A,6-month,Neurology
+125A,6-month,Neurology
+126A,6-month,Pulmonology
+127A,6-month,None
+128A,6-month,Neurology
+129A,6-month,None
+130A,6-month,Rheumatology
+131A,6-month,Neurology
+132A,6-month,Pulmonology
+133A,6-month,Pulmonology
+134A,6-month,Infectious Disease
+135A,6-month,Rheumatology
+136A,6-month,Rheumatology
+137A,6-month,None
+138A,6-month,Pulmonology
+139A,6-month,Rheumatology
+140A,6-month,None
+141A,6-month,Rheumatology
+142A,6-month,None
+143A,6-month,Neurology
+144A,6-month,None
+145A,6-month,Rheumatology
+146A,6-month,Rheumatology
+147A,6-month,Infectious Disease
+148A,6-month,Neurology
+149A,6-month,Pulmonology
+150A,6-month,None
+1A,12-month,Pulmonology
+2A,12-month,Neurology
+3A,12-month,None
+4A,12-month,Rheumatology
+5A,12-month,Pulmonology
+6A,12-month,None
+7A,12-month,Neurology
+8A,12-month,Rheumatology
+9A,12-month,Neurology
+10A,12-month,Neurology
+11A,12-month,Neurology
+12A,12-month,Pulmonology
+13A,12-month,Pulmonology
+14A,12-month,Neurology
+15A,12-month,None
+16A,12-month,Infectious Disease
+17A,12-month,Pulmonology
+18A,12-month,Rheumatology
+19A,12-month,Pulmonology
+20A,12-month,None
+21A,12-month,Pulmonology
+22A,12-month,Neurology
+23A,12-month,Infectious Disease
+24A,12-month,None
+25A,12-month,None
+26A,12-month,Neurology
+27A,12-month,Pulmonology
+28A,12-month,None
+29A,12-month,Rheumatology
+30A,12-month,Neurology
+31A,12-month,None
+32A,12-month,Neurology
+33A,12-month,Neurology
+34A,12-month,None
+35A,12-month,Rheumatology
+36A,12-month,Infectious Disease
+37A,12-month,Neurology
+38A,12-month,Rheumatology
+39A,12-month,None
+40A,12-month,Infectious Disease
+41A,12-month,Pulmonology
+42A,12-month,Rheumatology
+43A,12-month,Rheumatology
+44A,12-month,None
+45A,12-month,Rheumatology
+46A,12-month,Neurology
+47A,12-month,Rheumatology
+48A,12-month,Infectious Disease
+49A,12-month,Infectious Disease
+50A,12-month,Rheumatology
+51A,12-month,Rheumatology
+52A,12-month,Pulmonology
+53A,12-month,Rheumatology
+54A,12-month,Rheumatology
+55A,12-month,Pulmonology
+56A,12-month,Rheumatology
+57A,12-month,None
+58A,12-month,Infectious Disease
+59A,12-month,None
+60A,12-month,Rheumatology
+61A,12-month,None
+62A,12-month,Pulmonology
+63A,12-month,Rheumatology
+64A,12-month,None
+65A,12-month,Pulmonology
+66A,12-month,Pulmonology
+67A,12-month,Rheumatology
+68A,12-month,Infectious Disease
+69A,12-month,Pulmonology
+70A,12-month,Pulmonology
+71A,12-month,Pulmonology
+72A,12-month,Neurology
+73A,12-month,Infectious Disease
+74A,12-month,Rheumatology
+75A,12-month,Infectious Disease
+76A,12-month,Pulmonology
+77A,12-month,None
+78A,12-month,Neurology
+79A,12-month,None
+80A,12-month,Pulmonology
+81A,12-month,Rheumatology
+82A,12-month,Rheumatology
+83A,12-month,Rheumatology
+84A,12-month,Neurology
+85A,12-month,None
+86A,12-month,None
+87A,12-month,Rheumatology
+88A,12-month,Infectious Disease
+89A,12-month,Infectious Disease
+90A,12-month,Neurology
+91A,12-month,None
+92A,12-month,Rheumatology
+93A,12-month,Neurology
+94A,12-month,Neurology
+95A,12-month,Pulmonology
+96A,12-month,Rheumatology
+97A,12-month,Pulmonology
+98A,12-month,Infectious Disease
+99A,12-month,None
+100A,12-month,Pulmonology
+101A,12-month,Pulmonology
+102A,12-month,Rheumatology
+103A,12-month,Rheumatology
+104A,12-month,Infectious Disease
+105A,12-month,Pulmonology
+106A,12-month,Pulmonology
+107A,12-month,Pulmonology
+108A,12-month,None
+109A,12-month,None
+110A,12-month,Infectious Disease
+111A,12-month,Rheumatology
+112A,12-month,None
+113A,12-month,Neurology
+114A,12-month,None
+115A,12-month,Rheumatology
+116A,12-month,Pulmonology
+117A,12-month,Rheumatology
+118A,12-month,Pulmonology
+119A,12-month,Rheumatology
+120A,12-month,Infectious Disease
+121A,12-month,Rheumatology
+122A,12-month,Infectious Disease
+123A,12-month,Rheumatology
+124A,12-month,None
+125A,12-month,None
+126A,12-month,Neurology
+127A,12-month,Infectious Disease
+128A,12-month,Rheumatology
+129A,12-month,None
+130A,12-month,Pulmonology
+131A,12-month,Pulmonology
+132A,12-month,None
+133A,12-month,Rheumatology
+134A,12-month,Neurology
+135A,12-month,Infectious Disease
+136A,12-month,None
+137A,12-month,Pulmonology
+1A,24-month,None
+2A,24-month,Infectious Disease
+3A,24-month,Neurology
+4A,24-month,Rheumatology
+5A,24-month,Pulmonology
+6A,24-month,Neurology
+7A,24-month,Rheumatology
+8A,24-month,Pulmonology
+9A,24-month,Rheumatology
+10A,24-month,None
+11A,24-month,Pulmonology
+12A,24-month,Neurology
+13A,24-month,Neurology
+14A,24-month,Pulmonology
+15A,24-month,Rheumatology
+16A,24-month,Rheumatology
+17A,24-month,Infectious Disease
+18A,24-month,Infectious Disease
+19A,24-month,Rheumatology
+20A,24-month,Neurology
+21A,24-month,Infectious Disease
+22A,24-month,Rheumatology
+23A,24-month,Neurology
+24A,24-month,Rheumatology
+25A,24-month,Infectious Disease
+26A,24-month,Rheumatology
+27A,24-month,Pulmonology
+28A,24-month,Pulmonology
+29A,24-month,None
+30A,24-month,None
+31A,24-month,Neurology
+32A,24-month,Infectious Disease
+33A,24-month,None
+34A,24-month,Neurology
+35A,24-month,Neurology
+36A,24-month,Neurology
+37A,24-month,Rheumatology
+38A,24-month,Rheumatology
+39A,24-month,Pulmonology
+40A,24-month,Pulmonology
+41A,24-month,Infectious Disease
+42A,24-month,Pulmonology
+43A,24-month,Neurology
+44A,24-month,Infectious Disease
+45A,24-month,Pulmonology
+46A,24-month,Neurology
+47A,24-month,None
+48A,24-month,Neurology
+49A,24-month,None
+50A,24-month,Infectious Disease
+51A,24-month,None
+52A,24-month,Pulmonology
+53A,24-month,Infectious Disease
+54A,24-month,Pulmonology
+55A,24-month,Rheumatology
+56A,24-month,Neurology
+57A,24-month,Neurology
+58A,24-month,Infectious Disease
+59A,24-month,Pulmonology
+60A,24-month,None
+61A,24-month,Rheumatology
+62A,24-month,Pulmonology
+63A,24-month,None
+64A,24-month,Pulmonology
+65A,24-month,None
+66A,24-month,Rheumatology
+67A,24-month,Pulmonology
+68A,24-month,Pulmonology
+69A,24-month,Rheumatology
+70A,24-month,Neurology
+71A,24-month,Rheumatology
+72A,24-month,Rheumatology
+73A,24-month,None
+74A,24-month,Infectious Disease
+75A,24-month,Neurology
+76A,24-month,Infectious Disease
+77A,24-month,Rheumatology
+78A,24-month,None
+79A,24-month,Pulmonology
+80A,24-month,Neurology
+81A,24-month,Rheumatology
+82A,24-month,Infectious Disease
+83A,24-month,Rheumatology
+84A,24-month,Pulmonology
+85A,24-month,Rheumatology
+86A,24-month,Rheumatology
+87A,24-month,Pulmonology
+88A,24-month,Infectious Disease
+89A,24-month,Pulmonology
+90A,24-month,Infectious Disease
+91A,24-month,Infectious Disease
+92A,24-month,Rheumatology
+93A,24-month,None
+94A,24-month,Rheumatology
+95A,24-month,Infectious Disease
+96A,24-month,Neurology
+97A,24-month,Neurology
+98A,24-month,Pulmonology
+99A,24-month,Infectious Disease
+100A,24-month,Neurology
+101A,24-month,Rheumatology
+102A,24-month,Pulmonology
+103A,24-month,Rheumatology
+104A,24-month,Rheumatology
+105A,24-month,Rheumatology
+106A,24-month,None
+107A,24-month,Rheumatology
+108A,24-month,Pulmonology
+109A,24-month,None
+110A,24-month,None
+111A,24-month,Pulmonology
+112A,24-month,Neurology
+113A,24-month,Rheumatology
+114A,24-month,None
+115A,24-month,None
+116A,24-month,None
+117A,24-month,Pulmonology
+118A,24-month,Pulmonology
+119A,24-month,Neurology
+120A,24-month,Neurology
